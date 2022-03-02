@@ -7,14 +7,14 @@
 #### Method 1 : Stylish
 
 1. Download [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) chrome extension
-2. Visit the [SMU-DarkCanvas](https://userstyles.org/styles/userjs/231203/smu-dark-canvas-lms.user.js) install page & click _Install Style_.
+2. Visit the [SMU-DarkCanvas](https://userstyles.org/styles/231203) webpage & click _Install Style_.
 
 #### Method 2 : Tampermonkey
 
 To install style as userscript
 
 1. Download the [Tampermonkey](https://tampermonkey.net) chrome exxtension
-2. Visit the [SMU-DarkCanvas](https://userstyles.org/styles/userjs/231203/smu-dark-canvas-lms.user.js) install page & click _install_.
+2. Visit the [SMU-DarkCanvas](https://userstyles.org/styles/userjs/231203/smu-dark-canvas-lms.user.js) webpage & click _install_.
 
 Or to install manually using [Tampermonkey](https://tampermonkey.net), simply paste the contents of
 '_SMU Dark Canvas LMS.user.js_' into a new userscript.
