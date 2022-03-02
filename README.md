@@ -1,14 +1,20 @@
-# SMU-DarkCanvasDark
+# SMU-DarkCanvas
 
-Dark mode for Canvas LMS (SMU themed colors)
+![CardViews](https://user-images.githubusercontent.com/30121656/156297608-4aff483c-fe10-471d-a12e-a9b744d1b5a4.png)
 
-#### Install Instructions
+### Install Instructions
 
-Now available via [userstyles.org](https://userstyles.org/styles/231203/smu-dark-canvas-lms)!
+#### Method 1 : Stylish
 
-Alternatively, to install style as userscript (Tampermonkey required),
-click [here](https://userstyles.org/styles/userjs/231203/smu-dark-canvas-lms.user.js)
-to be redirected to the install page.
+1. Download [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) chrome extension
+2. Visit the [SMU-DarkCanvas](https://userstyles.org/styles/userjs/231203/smu-dark-canvas-lms.user.js) install page & click _Install Style_.
+
+#### Method 2 : Tampermonkey
+
+To install style as userscript
+
+1. Download the [Tampermonkey](https://tampermonkey.net) chrome exxtension
+2. Visit the [SMU-DarkCanvas](https://userstyles.org/styles/userjs/231203/smu-dark-canvas-lms.user.js) install page & click _install_.
 
 Or to install manually using [Tampermonkey](https://tampermonkey.net), simply paste the contents of
-'_SMU Dark Canvas LMS.user.js_' into a new userscript. 
+'_SMU Dark Canvas LMS.user.js_' into a new userscript.
